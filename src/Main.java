@@ -3,7 +3,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int amount = 40000;   // Соимость одного билета
+        int amount = 50000;   // Соимость одного билета
         int minimumamont = 20; // Минимальная сумма для одной мили
         int mile = 1;   // количесвто мили
 
